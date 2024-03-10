@@ -5,7 +5,7 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
-  '@paddle/paddle-node-sdk-dynamic-import':
+  '@paddle/paddle-node-sdk':
     specifier: github:mw10013/paddle-node-sdk#cloudflare-prepare
     version: github.com/mw10013/paddle-node-sdk/5233b2567f783979bdc1cf1df198d3bb554db8ac
 

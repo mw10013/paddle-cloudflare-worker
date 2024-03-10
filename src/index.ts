@@ -1,4 +1,4 @@
-import { Environment, Paddle } from '@paddle/paddle-node-sdk-dynamic-import';
+import { Environment, Paddle } from '@paddle/paddle-node-sdk';
 
 export interface Env {
 	PADDLE_API_KEY: string;
